@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "759001425890-4l3rqh8dplqdgfccmni11j57eiiucior.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuhZH4b_ImwzoT0Og8vwdU_7pGY6DH6k4"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:759001425890:ios:4eb13a1cb6562d27a77bbb", 
+        "android_client_info": {
+          "package_name": "com.zombie.war.idle.defense"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "zombie-war-c4156.appspot.com", 
+    "project_id": "zombie-war-c4156", 
+    "firebase_url": "https://zombie-war-c4156.firebaseio.com", 
+    "project_number": "759001425890"
+  }
+}

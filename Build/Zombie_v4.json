@@ -1,0 +1,13 @@
+{
+"companyName": "Z165",
+"productName": "Zombie War",
+"dataUrl": "Zombie_v4.data.unityweb",
+"wasmCodeUrl": "Zombie_v4.wasm.code.unityweb",
+"wasmFrameworkUrl": "Zombie_v4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
